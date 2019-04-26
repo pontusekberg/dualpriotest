@@ -2,7 +2,7 @@
 
 This program verifies (by exhaustive checking) the three counterexamples to dual priority scheduling
 conjectures given in the paper entitled [Dual Priority Scheduling is Not
-Optimal](http://user.it.uu.se/~ponek616/files/preprints/dualprio-preprint.pdf),
+Optimal](http://user.it.uu.se/~ponek616/files/ECRTS19/ECRTS19.pdf),
 which is to be published at the Euromicro Conference on Real-Time Systems (ECRTS), 2019.
 
 As this program serves the purpose of a proof, much of it is written in a naive
